@@ -20,7 +20,7 @@
 
         <elasticsearch.version>7.0.1</elasticsearch.version>
         <hbase.version>1.2.1</hbase.version>
-        <nett.version>4.1.32.Final</nett.version>
+        <nett.version>4.1.42.Final</nett.version>
 
         <!-- other -->
         <junit.version>4.9</junit.version>
