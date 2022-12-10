@@ -13,7 +13,7 @@
         <logback.version>1.2.3</logback.version>
         <logback-ext-spring.version>0.1.4</logback-ext-spring.version>
 
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <servlet.version>3.0-alpha-1</servlet.version>
         <jackson.version>2.9.6</jackson.version>
         <codehaus.jackson.version>1.8.8</codehaus.jackson.version>
